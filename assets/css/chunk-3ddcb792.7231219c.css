@@ -1,0 +1,1 @@
+.music-audio{display:none}.music-letter{flex-grow:1;height:22.5rem;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.music-letter__list{transition:all .1s linear}.music-letter__line{height:2.5rem;line-height:2.5rem;text-align:center}.music-letter__line.active-line{color:#000;font-weight:700}
